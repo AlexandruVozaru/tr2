@@ -21,11 +21,11 @@ body{
   padding-left: 5%;
 padding-top: 5%;
 margin-left: 0;
-word-spacing: 4px;
 font-family: "lato","Arial";
+font-size: 1em;
 }
 .logo{
-  font-size: 5em;
+  font-size: 3em;
   padding-bottom: 5%;
 }
 .info{
